@@ -1,0 +1,8 @@
+.cardContent {
+  border: 1px solid white;
+  height: 550px;
+  border-radius: 16px;
+  box-shadow: 10px 5px 5px white;
+  margin: 20px;
+  padding: 20px;
+}
